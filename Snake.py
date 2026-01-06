@@ -9,4 +9,6 @@ class Snake:
 my_snake = Snake()
 my_snake.eat()
 
-print(my_snake.length)
+print(my_snake.length) 
+print("")
+print(';bla bla bla')
